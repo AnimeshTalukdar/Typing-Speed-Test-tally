@@ -48,6 +48,17 @@ To run Tally on your local machine, follow these steps:
 6. Start the server by running `npm start`.
 7. Open your web browser and navigate to `http://localhost:3000` to access Tally.
 
+## Demo Images
+1. Game Dashbaord
+![dashboard img](https://github.com/AnimeshTalukdar/Typing-Speed-Test-tally/blob/main/demo-images/dashbaord.jpg?raw=true)
+
+2. Game options
+![game options img](https://github.com/AnimeshTalukdar/Typing-Speed-Test-tally/blob/main/demo-images/gameoptions.jpg?raw=true)
+
+3. Game 
+![game img](https://github.com/AnimeshTalukdar/Typing-Speed-Test-tally/blob/main/demo-images/game.jpg?raw=true)
+
+
 ## Contribution Guidelines
 
 We welcome contributions to make Tally even better! If you would like to contribute, follow these steps:
@@ -57,9 +68,9 @@ We welcome contributions to make Tally even better! If you would like to contrib
 3. Commit your changes and push them to your fork.
 4. Submit a pull request to the main repository.
 
-## Team Spark
+## Team LiteCoders
 
-Tally was developed with passion and dedication by Team Spark for the Hackathon for Tally:
+Tally was developed with passion and dedication by Team LiteCoders for the Hackathon for Tally:
 
 - Animesh Talukdar - GitHub: [animesh-talukdar](https://github.com/animeshtalukdar)
 - Tanmay Roy - GitHub: [tanmay-roy](https://github.com/roytanmay)
